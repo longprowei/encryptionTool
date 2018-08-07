@@ -1,2 +1,2 @@
-all: encrptionTool.cpp
-	g++ encrptionTool.cpp -o encrptionTool
+all: encryptionTool.cpp
+	g++ encryptionTool.cpp -o encryptionTool
