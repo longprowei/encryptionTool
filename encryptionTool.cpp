@@ -4,11 +4,11 @@ using namespace std;
 
 void usage(void)
 {
-	cout<<"Hello,GitHub!"<<endl;
+	cout << "Hello,GitHub!" << endl;
 }
 
 int main(int argc, char* argv[])
 {
-    usage();
+	usage();
 	return 0;
 }
